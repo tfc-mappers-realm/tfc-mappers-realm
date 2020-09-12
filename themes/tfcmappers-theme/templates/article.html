@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title }} | {{ SITENAME }}{% endblock title %}
+{% block content %}
+
+<div class="metabox">
+	<p class="metaday">{{ article.date|strftime('%j') }}</p>
+	<p class="metayear">{{ article.date|strftime('%Y') }}</p>
+	<p class="metacategory">{{ article.category }}</p>
+</div>
+<div class="arcticlecontentbox">
+	<div class="articlecontent">
+		<a class="articletitle" href="{{ SITEURL }}/{{ article.url }} " >{{ article.title }}</a>
+		{{ article.content }}
+	</div> 
+</div>
+
+{% endblock content %}
