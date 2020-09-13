@@ -1,3 +1,6 @@
 ErrorDocument 404 /pages/error-404.html
 
 AddType application/octet-stream .bsp .wad
+
+RewriteCond %{REQUEST_URI} \.(zip|bsp|wad|exe)$
+RewriteRule ^(.+) /log_access.php [L]

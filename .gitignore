@@ -4,3 +4,4 @@ output/
 content/fastdl/
 hostvars.mk
 hostvars.py
+hostvars.php

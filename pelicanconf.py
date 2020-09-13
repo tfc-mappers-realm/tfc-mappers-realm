@@ -21,7 +21,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 ARTICLE_PATHS = ['blog']
-STATIC_PATHS = ['images', 'downloads', 'fastdl', '.htaccess']
+STATIC_PATHS = ['images', 'downloads', 'fastdl', '.htaccess',
+                'log_access.php', 'hostvars.php']
 
 # Blogroll
 LINKS = ()
