@@ -2,7 +2,6 @@ Reses Beta 3 Released
 #####################
 
 :date: 2020-08-31T01:45:00-03:00
-:modified: 2010-10-04 18:40
 :category: CTF Maps
 :slug: reses-b3
 :author: Yenx
