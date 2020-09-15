@@ -167,7 +167,7 @@ overflow:auto;
 tr:nth-child(odd){background-color:rgba(255,255,255,0.2);}
 tr:nth-child(even){background-color:rgba(140,203,255,0.2);}
 li{
-font-size:12px;
+font-size:14px;
 list-style-type : square;
 }
 .sidebar{
