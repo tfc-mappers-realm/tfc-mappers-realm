@@ -16,7 +16,6 @@ I am back into mapping, it is time to make a release of it, here it goes:
 Thanks to:
 
 - Soak for helping me testing it and giving ideas
-- Venny for suggestions and uploading the map to LATAM server
 - LATAM community for keeping the game alive
 - All the remaining players
 

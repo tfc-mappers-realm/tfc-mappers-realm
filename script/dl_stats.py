@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 accesses = {}
 
 with open('download.log') as f:
@@ -12,4 +14,4 @@ with open('download.log') as f:
             accesses[file_path].append(ip_addr)
 
 for file_path, ip_addr in accesses.items():
-    print file_path, len(ip_addr)
+    print(file_path + " " + str(len(ip_addr)))
