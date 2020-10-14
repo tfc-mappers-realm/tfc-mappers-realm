@@ -38,62 +38,62 @@ Screenshots:
 .. image:: {static}/images/kontra_r-1.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: kontra_r screenshot 1
    :align: left
    :target: {static}/images/kontra_r-1.jpg
 
 .. image:: {static}/images/kontra_r-2.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: kontra_r screenshot 2
    :align: left
    :target: {static}/images/kontra_r-2.jpg
 
 .. image:: {static}/images/kontra_r-3.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: kontra_r screenshot 3
    :align: left
    :target: {static}/images/kontra_r-3.jpg
 
 .. image:: {static}/images/kontra_r-4.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: kontra_r screenshot 4
    :align: left
    :target: {static}/images/kontra_r-4.jpg
 
 .. image:: {static}/images/kontra_r-5.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: kontra_r screenshot 5
    :align: left
    :target: {static}/images/kontra_r-5.jpg
 
 .. image:: {static}/images/kontra_r-6.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: kontra_r screenshot 6
    :align: left
    :target: {static}/images/kontra_r-6.jpg
 
 .. image:: {static}/images/kontra_r-7.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: kontra_r screenshot 7
    :align: left
    :target: {static}/images/kontra_r-7.jpg
 
 .. image:: {static}/images/kontra_r-8.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: kontra_r screenshot 8
    :align: left
    :target: {static}/images/kontra_r-8.jpg
 
 .. image:: {static}/images/kontra_r-9.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: kontra_r screenshot 9
    :align: left
    :target: {static}/images/kontra_r-9.jpg

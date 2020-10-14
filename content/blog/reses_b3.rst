@@ -5,7 +5,7 @@ Reses Beta 3 Released
 :category: CTF Maps
 :slug: reses-b3
 :author: Yenx
-:tags: reses, map, release
+:tags: reses, map, release, beta
 
 
 Seven years ago I made a small/medium sized ctf map, it was reses_b1. This
@@ -38,31 +38,31 @@ Screenshots:
 .. image:: {static}/images/reses_b3-1.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: reses_b3 screenshot 1
    :align: left
    :target: {static}/images/reses_b3-1.jpg
 
 .. image:: {static}/images/reses_b3-2.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: reses_b3 screenshot 2
    :align: left
    :target: {static}/images/reses_b3-2.jpg
 
 .. image:: {static}/images/reses_b3-3.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: reses_b3 screenshot 3
    :align: left
    :target: {static}/images/reses_b3-3.jpg
 
 .. image:: {static}/images/reses_b3-4.jpg
    :height: 200px
    :width: 350px
-   :alt: alternate text
+   :alt: reses_b3 screenshot 4
    :align: left
    :target: {static}/images/reses_b3-4.jpg
 
-You may be wandering about what happened the the second beta version, well...
+You may be wondering about what happened the the second beta version, well...
 I made it one day before the _b3 release but there were some bugs I belived to
 be blockers.
