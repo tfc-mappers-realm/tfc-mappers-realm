@@ -13,7 +13,7 @@ anyone is free to contribute, a good way to do it is by checking the website
 pull requests.
 
 It is also possible to send stuff you made to the following email address:
-_yenxp AT hotmail DOT com_
+_yenxp AT tfcmappers DOT com_
 
 Feel free to contribute with us by sending stuff you have made related to TFC
 mapping, such as texts, maps, tools, textures. Because TFC is a mod for

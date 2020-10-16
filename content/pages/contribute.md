@@ -13,4 +13,4 @@ A good good way to contribute is by checking the website
 pull requests.
 
 It is also possible to send stuff you made to the following email address:
-_yenxp AT hotmail DOT com_
+_yenxp AT tfcmappers DOT com_

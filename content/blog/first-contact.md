@@ -21,7 +21,7 @@ is willing to ocontribute.
 Last, this is completely a side-project of mine, so I won't update it
 frequently.
 
-Feel free to contact me on yenxp AT hotmail DOT com
+Feel free to contact me on yenxp AT tfcmappers DOT com
 
 Yenx.
 
