@@ -14,3 +14,12 @@ pull requests.
 
 It is also possible to send stuff you made to the following email address:
 _yenxp AT tfcmappers DOT com_
+
+Most posts and pages are either in Markdown or ReStructured Text format. So you
+can use the following useful online tools to help making them:
+
+** ReStructured Text: **
+https://livesphinx.herokuapp.com/
+
+** Markdown: **
+https://stackedit.io/app#
